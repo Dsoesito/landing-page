@@ -16,7 +16,7 @@ App Link: https://dsoesito.github.io/landing-page/
 
 ## Architecture
 
-This is a very simple app built only with HTML, CSS, JavaScript, and the OpenWeather API. All data is taken from the OpenWeather API. Based on the received data, the icon beneath the temperature will change. The custon messages at the bottom are stored in the browser cache and will remain until cleared. Lastly, the background of the landing page also changes based on the time of day, to further customize the look and feel.
+This is a very simple app built only with HTML, CSS, JavaScript, and the OpenWeather API. This app aloses utilized TypeScript to ensure strict type declarations. All data is taken from the OpenWeather API. Based on the received data, the icon beneath the temperature will change. The custon messages at the bottom are stored in the browser cache and will remain until cleared. Lastly, the background of the landing page also changes based on the time of day, to further customize the look and feel.
 
 ## Screenshots
 
